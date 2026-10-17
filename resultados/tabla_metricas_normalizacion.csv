@@ -1,0 +1,7 @@
+Sujeto,Configuración,Descripción,Tiempo (s),Mattes MI (más neg = mejor),Correlación (más neg = mejor)
+sub-002,1_Lineal_Affine,Solo transformación lineal global (12 GDL),1.42,-0.0687,-0.0191
+sub-002,2_SyN_Default_MI,Difeomórfico rápido (sin refinamiento en resolución nativa),4.71,-0.2154,-0.0322
+sub-002,3_SyN_Optimizado_CC,SyN + Cross-Correlation local (r=4) + 4 niveles de pirámide,150.38,-0.1823,-0.0707
+sub-004,1_Lineal_Affine,Solo transformación lineal global (12 GDL),2.45,-0.0484,-0.0525
+sub-004,2_SyN_Default_MI,Difeomórfico rápido (sin refinamiento en resolución nativa),5.52,-0.2305,-0.2001
+sub-004,3_SyN_Optimizado_CC,SyN + Cross-Correlation local (r=4) + 4 niveles de pirámide,151.22,-0.2887,-0.2978
